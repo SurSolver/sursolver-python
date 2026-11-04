@@ -1,6 +1,11 @@
 # Changelog
 
-## 0.1.0 — unreleased
+## 0.1.1 — 2026-11-04
+
+- Published from GitHub Actions through PyPI trusted publishing, with signed attestations
+  linking the distributions to their source commit. README examples reformatted. No API changes.
+
+## 0.1.0 — 2026-11-04
 
 First release. Tested against the SDK specification revision in `SPEC_VERSION` (catalog of
 2026-11-04).
